@@ -1,0 +1,15 @@
+body
+{
+    margin: 0px;
+    padding: 10px;
+    font-family: 'Courier', Courier;
+    font-size: 12pt;
+    color: rgba(100, 53, 53, 0.6);
+    background-color:rgb(225, 242, 243); 
+}
+h1, h2, h3, 
+{
+    margin: 0;
+    padding: 10px;
+    color: #2fb18a;
+}
